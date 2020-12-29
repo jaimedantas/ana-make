@@ -90,7 +90,7 @@ a {text-decoration:none;}
   background-color: rgba(0, 0, 0, 0.3);
 }
 .background:first-child {
-  background-image: url(../img/bg1.jpg);
+  background-image: url(../img/ana/14.jpg);
   -webkit-transform: translateY(-15vh);
           transform: translateY(-15vh);
 }
@@ -99,16 +99,16 @@ a {text-decoration:none;}
           transform: translateY(15vh);
 }
 .background:nth-child(2) {
-  background-image: url(../img/bg2.jpg);
+  background-image: url(../img/ana/13.jpg);
 }
 .background:nth-child(3) {
-  background-image: url(../img/bg3.jpg);
+  background-image: url(../img/ana/12.jpg);
 }
 .background:nth-child(4) {
-  background-image: url(../img/bg4.jpg);
+  background-image: url(../img/ana/11.jpg);
 }
 .background:nth-child(5) {
-  background-image: url(../img/bg5.jpg);
+  background-image: url(../img/ana/6.jpg);
 }
 
 /* Set stacking context of slides */
@@ -609,6 +609,16 @@ a.fullpricelist {
     border-radius: 100%;
     margin-left: -60px;
 }
+
+.contactaddress-bubble2 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    background: rgba(0, 0, 0, 0.44);
+    color: rgba(255,255,255,0.5);
+    border-radius: 100%;
+    margin-left: -60px;
+}
 .contactaddress {
 	    padding: 20%;
 }
@@ -860,7 +870,7 @@ html, body {
   left: 100%;
   margin-left: -100px;
   height: 200%;
-      background: rgba(145, 255, 255, 0.65);
+      background: rgba(193, 158, 199, 0.65);
   -webkit-transition: all ease .5s;
   -moz-transition: all ease .5s;
   -ms-transition: all ease .5s;
@@ -878,7 +888,7 @@ html, body {
   transform: rotate(-45deg);
 }
 .menu-outer:hover {
-  background: rgba(40, 154, 154, 0.95);
+  background: rgba(193, 158, 199, 0.95);
   left: 0;
   margin-left: 0;
   -webkit-transform: rotate(0deg);

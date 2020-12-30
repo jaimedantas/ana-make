@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="51700ec3-1b6c-43cc-a96e-e4dcb0177ed0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/license.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609277722254</updated>
-      <workItem from="1609277723797" duration="7656000" />
+      <workItem from="1609277723797" duration="8347000" />
     </task>
     <task id="LOCAL-00001" summary="initial development">
       <created>1609277769045</created>
@@ -82,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609285604854</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added image to website">
+      <created>1609286214954</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609286214954</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,21 +101,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial development" />
     <MESSAGE value="First release" />
-    <option name="LAST_COMMIT_MESSAGE" value="First release" />
+    <MESSAGE value="Added image to website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added image to website" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="-745" key="#PHP" timestamp="1609282515938">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
     <state x="317" y="-745" key="#PHP/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609282515938" />
-    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609285604533">
+    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609287512359">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609285604533" />
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609285607031">
+    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609287512359" />
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609286216347">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609285607031" />
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609286216347" />
     <state x="308" y="-616" width="667" height="486" key="find.popup" timestamp="1609284142884">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>

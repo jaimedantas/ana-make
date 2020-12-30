@@ -87,7 +87,7 @@ a {text-decoration:none;}
   background-color: rgba(0, 0, 0, 0.3);
 }
 .background:first-child {
-  background-image: url(../img/ana/14.jpg);
+  background-image: url(../img/ana/new.jpeg);
   -webkit-transform: translateY(-15vh);
           transform: translateY(-15vh);
 }

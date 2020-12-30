@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51700ec3-1b6c-43cc-a96e-e4dcb0177ed0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/ana/services_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/ORCAMENTO_DIA_DA_NOIVA.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg7.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609277722254</updated>
-      <workItem from="1609277723797" duration="13436000" />
+      <workItem from="1609277723797" duration="13687000" />
     </task>
     <task id="LOCAL-00001" summary="initial development">
       <created>1609277769045</created>
@@ -108,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609287746383</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added new text and pdf">
+      <created>1609295937184</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609295937184</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,21 +131,22 @@
     <MESSAGE value="Added image to website" />
     <MESSAGE value="Minor fixes" />
     <MESSAGE value="code cleaning" />
-    <option name="LAST_COMMIT_MESSAGE" value="code cleaning" />
+    <MESSAGE value="Added new text and pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new text and pdf" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="-745" key="#PHP" timestamp="1609282515938">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
     <state x="317" y="-745" key="#PHP/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609282515938" />
-    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609287746141">
+    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609295936741">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609287746141" />
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609287747937">
+    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609295936741" />
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609295941182">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609287747937" />
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609295941182" />
     <state x="308" y="-616" width="816" height="550" key="find.popup" timestamp="1609292766559">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>

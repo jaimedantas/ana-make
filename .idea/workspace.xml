@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51700ec3-1b6c-43cc-a96e-e4dcb0177ed0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/ana/new.jpeg" afterDir="false" />
+    <list default="true" id="51700ec3-1b6c-43cc-a96e-e4dcb0177ed0" name="Default Changelist" comment="replaced main image for testing">
+      <change afterPath="$PROJECT_DIR$/img/ana/ana_high.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ana/ana_mk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ana/ana_noiva.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ana/bg-gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ana/bt.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609277722254</updated>
-      <workItem from="1609277723797" duration="15530000" />
+      <workItem from="1609277723797" duration="19483000" />
     </task>
     <task id="LOCAL-00001" summary="initial development">
       <created>1609277769045</created>
@@ -141,11 +147,29 @@
       <option name="project" value="LOCAL" />
       <updated>1609297145639</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="replaced main image for testing">
+      <created>1609332243395</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609332243395</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial development" />
@@ -156,21 +180,22 @@
     <MESSAGE value="code cleaning" />
     <MESSAGE value="added not found page" />
     <MESSAGE value="spelling fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="spelling fix" />
+    <MESSAGE value="replaced main image for testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="replaced main image for testing" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="-745" key="#PHP" timestamp="1609282515938">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
     <state x="317" y="-745" key="#PHP/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609282515938" />
-    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609297145414">
+    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609533234254">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609297145414" />
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609297147493">
+    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609533234254" />
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609332245377">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609297147493" />
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609332245377" />
     <state x="308" y="-616" width="816" height="550" key="find.popup" timestamp="1609292766559">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>

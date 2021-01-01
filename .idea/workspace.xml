@@ -4,8 +4,6 @@
     <list default="true" id="51700ec3-1b6c-43cc-a96e-e4dcb0177ed0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609277722254</updated>
-      <workItem from="1609277723797" duration="20932000" />
+      <workItem from="1609277723797" duration="21080000" />
     </task>
     <task id="LOCAL-00001" summary="initial development">
       <created>1609277769045</created>
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609535750846</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added new reviews">
+      <created>1609537840356</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609537840356</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,21 +189,22 @@
     <MESSAGE value="spelling fix" />
     <MESSAGE value="replaced main image for testing" />
     <MESSAGE value="Added high resolution images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added high resolution images" />
+    <MESSAGE value="Added new reviews" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new reviews" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="-745" key="#PHP" timestamp="1609282515938">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
     <state x="317" y="-745" key="#PHP/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609282515938" />
-    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609535750468">
+    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609537840059">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609535750468" />
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609535752310">
+    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609537840059" />
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609537841676">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609535752310" />
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609537841676" />
     <state x="308" y="-616" width="816" height="550" key="find.popup" timestamp="1609292766559">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>

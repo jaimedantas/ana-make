@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51700ec3-1b6c-43cc-a96e-e4dcb0177ed0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/ana/ana_noiva.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reviews.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ana/ana_noiva.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviews.html" beforeDir="false" afterPath="$PROJECT_DIR$/reviews.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609277722254</updated>
-      <workItem from="1609277723797" duration="24054000" />
+      <workItem from="1609277723797" duration="26172000" />
     </task>
     <task id="LOCAL-00001" summary="initial development">
       <created>1609277769045</created>
@@ -185,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609538194444</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added new page for reviews">
+      <created>1609542813352</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609542813352</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,21 +219,30 @@
     <MESSAGE value="Added new reviews" />
     <MESSAGE value="fixed README.md" />
     <MESSAGE value="changed name to math size" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed name to math size" />
+    <MESSAGE value="added new page for reviews" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new page for reviews" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="-745" key="#PHP" timestamp="1609282515938">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
     <state x="317" y="-745" key="#PHP/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609282515938" />
-    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609538194213">
+    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1609542813031">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609538194213" />
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609538255111">
+    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609542813031" />
+    <state x="130" y="-694" key="DiffContextDialog" timestamp="1609552107666">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609538255111" />
+    <state x="130" y="-694" key="DiffContextDialog/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609552107666" />
+    <state x="450" y="-655" key="RollbackChangesDialog" timestamp="1609552109074">
+      <screen x="-41" y="-745" width="1366" height="745" />
+    </state>
+    <state x="450" y="-655" key="RollbackChangesDialog/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609552109074" />
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2" timestamp="1609542816018">
+      <screen x="-41" y="-745" width="1366" height="745" />
+    </state>
+    <state x="242" y="-633" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609542816018" />
     <state x="308" y="-616" width="816" height="550" key="find.popup" timestamp="1609292766559">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
@@ -239,5 +251,9 @@
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
     <state x="333" y="-574" key="git4idea.merge.GitPullDialog/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609286057041" />
+    <state x="436" y="-471" key="git4idea.ui.GitResetDialog" timestamp="1609552088584">
+      <screen x="-41" y="-745" width="1366" height="745" />
+    </state>
+    <state x="436" y="-471" key="git4idea.ui.GitResetDialog/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1609552088584" />
   </component>
 </project>
